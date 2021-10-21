@@ -1,0 +1,1 @@
+export const log = (value) => ({type: 'LOG', payload: value});
